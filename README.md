@@ -48,7 +48,7 @@ O que é importante é que você sempre tenha em mente que os algoritmos que voc
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro-com-bas?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
 &nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro--com-bas?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro-com-bas?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
 &nbsp;
